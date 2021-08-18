@@ -15,3 +15,4 @@
 12.  [Anki](https://apps.ankiweb.net/)
 13.  [SimpleNote](https://github.com/Automattic/simplenote-electron/releases/tag/v2.16.0)
 14.  [RescueTime](https://www.rescuetime.com/)
+15.  [MSI-DRIVERS](https://www.msi.com/Laptop/support/GF63-Thin-9SX-GTX?sub_product=GF63-Thin-9SCSR#down-driver&Win10%2064)
